@@ -1,0 +1,39 @@
+Which keyword is used to create a subclass?
+Extends,Implements,Inherits,Sub
+Extends
+
+Java supports multiple inheritance using classes.
+True,False
+False
+
+What is the size of an int in java?
+2 bytes,4 bytes,6 bytes,8 bytes
+4 bytes
+
+The == operator checks the equality of two objects based on their content.
+True,False
+False
+
+Which of the following is NOT a primitive data type in java?
+char,String,double,boolean
+String
+
+Java programs are platform independent because of the java virtual machine.
+True,False
+True
+
+What is the output of a System.out.println(10/3); in java?
+3.33,3,3.0,10/3
+3
+
+In java, an ArrayList can store primitive data type like int and double directly.
+True,False
+False
+
+What is the correct way to declare an abstract class in java? 
+class className{},abstract class className{},abstract className{}, void class className{}
+abstract class className{}
+
+Interface in java can contain constructors. 
+True,False
+False
